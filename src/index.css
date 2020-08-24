@@ -1,15 +1,16 @@
-#root, html , body {
-   height: 100vh;
+#root, html, body {
+  height: 100vh;
 }
 
 body {
   margin: 0;
-  background-color:#4b5d67;
+  background-color: whitesmoke;
+  background-image: url("https://previews.123rf.com/images/oly5/oly51508/oly5150800308/43986979-abstract-blue-background-light-color-vintage-grunge-background-texture-design.jpg");
 }
 
 * {
   box-sizing: border-box;
-}  
+}
 
 html {
   scroll-behavior: smooth;

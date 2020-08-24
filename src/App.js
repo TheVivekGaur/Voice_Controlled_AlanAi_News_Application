@@ -38,7 +38,7 @@ const App = () => {
  return (
   <div>
   <div className={classes.logoContainer}>
-  <img src="https://alan.app/voice/images/previews/preview.jpg" className={classes.alanLogo} alt="alan-logo" />
+  <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" className={classes.alanLogo} alt="alan-logo" />
   </div>
   <NewsCards articles={newsArticles} activeArticle={activeArticle}  />
   </div>
